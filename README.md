@@ -1,0 +1,6 @@
+- 👋 Oi, eu sou Nelci. (Ela/Ela)
+- 👀 Sou QA, mas busco desenvolver habilidades para atuar como Desenvolvedor de Software
+- 🌱 Atualmente estou aprendendo lógica de programação junto com Java
+- 💞️ Procuro colaborar em projetos WEB/Mobile
+- 📫 Meus contatos: https://www.linkedin.com/in/nelci-farias-b66080a5/
+-                    E-mail: nelci.farias@outlook.com
