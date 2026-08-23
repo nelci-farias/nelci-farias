@@ -1,5 +1,0 @@
-- 👋 Olá, eu sou a Nelci. (Ela/Dela)
-- 👀 Sou QA e busco desenvolver habilidades para atuar tanto como automatizadora de testes quanto desenvolvedora de software
-- 🌱 Atualmente estou focada nos estudos de Java
-- 💞️ Procuro colaborar em projetos WEB/Mobile
-- 📫 Meu linkedin: https://www.linkedin.com/in/nelci-farias-QA
